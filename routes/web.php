@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('versi_theme_1.pages.front_content');
 });
 
 
